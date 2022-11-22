@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src=""https://giphy.com/embed/i4MAH84pqe2m2aVojc" />
+<img align="right" alt="coding" width="400" src="https://giphy.com/embed/i4MAH84pqe2m2aVojc" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himmu5&label=Profile%20views&color=0e75b6&style=flat"  alt="himmu5" /> </p>
 
